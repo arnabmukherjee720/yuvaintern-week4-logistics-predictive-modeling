@@ -1,0 +1,11 @@
+WEEK 4 GITHUB UPLOAD
+
+1. Extract this ZIP file.
+2. Open the extracted Week4_GitHub_Files folder.
+3. Open your Week 4 GitHub repository.
+4. Click Add file > Upload files.
+5. Select all files inside the extracted folder (do not upload the ZIP itself).
+6. Click Commit changes.
+7. Copy your repository URL and paste it into the YuvaIntern Week 4 GitHub URL field.
+
+Keep all project files together in the repository root. Do not create extra subfolders.
